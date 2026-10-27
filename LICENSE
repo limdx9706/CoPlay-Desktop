@@ -1,0 +1,34 @@
+# CoPlay 可陪 桌面客户端 · 专有软件许可
+# CoPlay Desktop Client — Proprietary Binary License
+
+版权所有 (c) 2026 limdx9706。保留所有权利。
+Copyright (c) 2026 limdx9706. All rights reserved.
+
+## 1. 授权 / Grant
+
+允许任何人免费从本仓库下载安装包，在个人设备上安装并使用 CoPlay 可陪 桌面客户端。
+You may download the installers published in this repository free of charge and install and use the CoPlay desktop client on your personal devices.
+
+## 2. 限制 / Restrictions
+
+未经版权所有者事先书面许可，禁止以下行为：
+Without the prior written permission of the copyright holder, you may not:
+
+- 再分发、转售或托管本安装包或其任何副本（无论是否收费）；
+  Redistribute, resell, or host the installers or any copies thereof, whether or not for a fee;
+- 修改、反向工程、反编译安装包或客户端，或制作其衍生作品；
+  Modify, reverse engineer, or decompile the installers or the client, or create derivative works of them;
+- 移除或更改本声明及安装包内的版权与许可标注；
+  Remove or alter this notice, or the copyright and license markings inside the installers;
+- 将客户端或其界面冒充为其他产品发布。
+  Present the client or its interface as any product other than CoPlay.
+
+## 3. 免责声明 / Disclaimer
+
+本软件按“现状”提供，不附带任何明示或默示的担保。因使用本软件产生的风险由使用者自行承担。
+The software is provided "as is", without warranty of any kind, express or implied. Use at your own risk.
+
+## 4. 第三方组件 / Third-Party Components
+
+安装包内捆绑的第三方开源组件依其自带许可提供，许可文本见安装包内的 licenses 目录及相关声明文件。
+Third-party open-source components bundled in the installers are provided under their own licenses; see the licenses directory and notice files inside each installer.
